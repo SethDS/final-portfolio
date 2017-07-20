@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+}
+
+.project-container {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #39454b;
+    color: #e5e6e7;
+    align-items: center;
+}
+
+.about-container {
+    width: 80%;
+    text-align: center;
+}
+
+.tech-container {
+    width: 80%;
+    text-align: center;
+}
+.tech-container ul {
+    padding: 0;
+}
+
+.screenshots-container {
+    width: 95%;
+    text-align: center;
+}
+.screenshots-container img {
+    width: 100%;
+    margin-top: 20px;
+}

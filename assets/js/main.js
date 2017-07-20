@@ -92,7 +92,7 @@
 				var $gallery = $('.gallery');
 
 				$gallery.poptrox({
-					baseZIndex: 10001,
+					baseZIndex: 0,
 					useBodyOverflow: false,
 					usePopupEasyClose: false,
 					overlayColor: '#1f2328',
