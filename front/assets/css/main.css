@@ -1126,21 +1126,37 @@
 			font-size: 0.9em;
 		}
 
-		.poptrox-popup .nav-next,
+
 		.poptrox-popup .nav-previous {
 			-moz-transition: opacity 0.2s ease-in-out;
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
 			position: absolute;
-			top: 0;
-			width: 50%;
-			height: 100%;
+			bottom: 45%;
+			width: 10%;
+			height: 10%;
 			opacity: 0;
+			z-index: 2000000;
 			cursor: pointer;
 			background: rgba(0, 0, 0, 0.01);
 			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		}
+.poptrox-popup .nav-next {
+	-moz-transition: opacity 0.2s ease-in-out;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+	position: absolute;
+	bottom: 45%;
+	width: 10%;
+	height: 10%;
+	opacity: 0;
+	z-index: 2000000;
+	cursor: pointer;
+	background: rgba(0, 0, 0, 0.01);
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
 
 		.poptrox-popup .nav-next:before,
 		.poptrox-popup .nav-previous:before {
@@ -1199,7 +1215,7 @@
 			width: 64px;
 			height: 64px;
 			text-indent: -9999px;
-			z-index: 2;
+			z-index: 300000;
 			opacity: 0;
 			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		}
@@ -2109,7 +2125,7 @@
 /* Intro */
 
 	#intro {
-		background: url("./images/daniel-leone-185834.jpg");
+		background: url("images/daniel-leone-185834.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2119,7 +2135,7 @@
 /* One */
 
 	#one {
-		background: url("./images/andrew-neel-300014.jpg");
+		background: url("images/andrew-neel-300014.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2128,7 +2144,7 @@
 /* Two */
 
 	#two {
-		background: url("./images/philip-swinburn-60229.jpg");
+		background: url("images/philip-swinburn-60229.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2139,7 +2155,7 @@
 	#contact {
 		overflow: hidden;
 		padding-bottom: 0;
-		background-image: url('./images/matt-palmer-171734.jpg');
+		background-image: url('images/matt-palmer-171734.jpg');
 		background-size: cover;
 		color: white;
 	}

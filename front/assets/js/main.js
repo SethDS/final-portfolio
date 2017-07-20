@@ -92,7 +92,7 @@
 				var $gallery = $('.gallery');
 
 				$gallery.poptrox({
-					baseZIndex: 0,
+					baseZIndex: 10001,
 					useBodyOverflow: false,
 					usePopupEasyClose: false,
 					overlayColor: '#1f2328',
@@ -101,7 +101,8 @@
 					usePopupCaption: true,
 					popupLoaderText: '',
 					windowMargin: 50,
-					usePopupNav: true
+					usePopupNav: true,
+					usePopupCloser: true
 				});
 
 				// Hack: Adjust margins when 'small' activates.
