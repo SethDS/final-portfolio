@@ -1,0 +1,22 @@
+{
+  "name": "Seth's Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethDS/final-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethDS/final-portfolio/issues"
+  },
+  "homepage": "https://github.com/SethDS/final-portfolio#readme",
+  "engines": {
+    "node": "6.9.2"
+  }
+}
