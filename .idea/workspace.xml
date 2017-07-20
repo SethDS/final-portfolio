@@ -18,12 +18,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="160">
+              <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <marker date="1500593327365" expanded="true" signature="20:22" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,11 +69,11 @@
         <option value="$PROJECT_DIR$/views/portfolio.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/front/index.html" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/front/index.html" />
       </list>
     </option>
   </component>
@@ -116,6 +118,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="html5up-solid-state" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5up-solid-state" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5up-solid-state" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,15 +231,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500499111566</updated>
-      <workItem from="1500499113004" duration="24953000" />
+      <workItem from="1500499113004" duration="25163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24953000" />
+    <option name="totallyTimeSpent" value="25163000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="736" extended-state="7" />
+    <frame x="-9" y="-9" width="1384" height="736" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -850,52 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
-          <caret line="107" column="28" lean-forward="false" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
-          <folding>
-            <marker date="1500592318741" expanded="true" signature="20:22" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="20:154" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="163:5455" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="171:633" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="320:395" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="460:536" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="546:622" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="641:5447" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="684:980" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="723:967" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="733:956" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1058:1292" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1084:1278" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1098:1144" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1195:1267" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1372:2220" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1409:2142" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="1423:1459" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2299:2717" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2336:2638" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2350:2387" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2785:3850" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2811:3836" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2825:2863" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2915:3824" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="2958:3138" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="3182:3369" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="3412:3582" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="3626:3811" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="3926:4785" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="3952:4771" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="3966:4073" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="4096:4760" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="4108:4247" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="4828:4961" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="4870:4947" ph="..." />
-            <marker date="1500592318741" expanded="true" signature="5313:5390" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -939,8 +909,24 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1500593062625" expanded="true" signature="0:501" ph="{&quot;name&quot;: &quot;Seth's Portfolio&quot;...}" />
+            <marker date="1500593062625" expanded="true" signature="110:173" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
+            <marker date="1500593062625" expanded="true" signature="191:278" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1500593062625" expanded="true" signature="326:393" ph="{&quot;url&quot;: &quot;https://github.com/SethDS/final-portfolio/issues&quot;...}" />
+            <marker date="1500593062625" expanded="true" signature="474:499" ph="{&quot;node&quot;: &quot;6.9.2&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <marker date="1500593327365" expanded="true" signature="20:22" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
