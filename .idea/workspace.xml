@@ -21,10 +21,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/front/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+            <state relative-caret-position="129">
+              <caret line="54" column="848" lean-forward="false" selection-start-line="54" selection-start-column="848" selection-end-line="54" selection-end-column="848" />
               <folding>
-                <marker date="1500660135745" expanded="true" signature="20:22" ph="..." />
+                <marker date="1500664570808" expanded="true" signature="20:22" ph="..." />
               </folding>
             </state>
           </provider>
@@ -231,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500499111566</updated>
-      <workItem from="1500499113004" duration="26869000" />
+      <workItem from="1500499113004" duration="27484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26869000" />
+    <option name="totallyTimeSpent" value="27484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1384" height="736" extended-state="6" />
@@ -922,10 +922,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        <state relative-caret-position="129">
+          <caret line="54" column="848" lean-forward="false" selection-start-line="54" selection-start-column="848" selection-end-line="54" selection-end-column="848" />
           <folding>
-            <marker date="1500660135745" expanded="true" signature="20:22" ph="..." />
+            <marker date="1500664570808" expanded="true" signature="20:22" ph="..." />
           </folding>
         </state>
       </provider>
